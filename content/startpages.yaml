@@ -48,20 +48,25 @@
               ico: <i class="fa-brands fa-wikipedia-w"></i>
               lbl: Wikipedia
               url: https://en.wikipedia.org/wiki/Main_Page
-            - !Link
-              ico: <i class="fa-brands fa-quora"></i>
-              lbl: Quora
-              url: https://www.quora.com
-            - !Link
-              ico: <i class="fa-brands fa-stack-exchange"></i>
-              lbl: Stack Exchange
-              url: https://stackexchange.com/
         - name: FFXIV
           rows:
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
               lbl: FFXIV Teamcraft
               url: https://ffxivteamcraft.com/
+            - !Link
+              ico: <i class="fa-solid fa-newspaper"></i>
+              lbl: Eorzea Collection
+              url: https://ffxiv.eorzeacollection.com/
+            - !Link
+              ico: <i class="fa-solid fa-newspaper"></i>
+              lbl: FFXIV Collect - Kydani
+              url: https://ffxivcollect.com/characters/17418479
+            - !Link
+              ico: <i class="fa-solid fa-newspaper"></i>
+              lbl: Universalis
+              url: https://universalis.app/
+            - !Separator
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
               lbl: Garland Tools
@@ -74,15 +79,6 @@
               ico: <i class="fa-solid fa-newspaper"></i>
               lbl: FFXIV Housing
               url: https://en.ff14housing.com/
-            - !Separator
-            - !Link
-              ico: <i class="fa-solid fa-newspaper"></i>
-              lbl: Eorzea Collection
-              url: https://ffxiv.eorzeacollection.com/
-            - !Link
-              ico: <i class="fa-solid fa-newspaper"></i>
-              lbl: FFXIV Collect - Kydani
-              url: https://ffxivcollect.com/characters/17418479
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
               lbl: FFXIV Store
@@ -99,10 +95,6 @@
               ico: <i class="fa-solid fa-newspaper"></i>
               lbl: r/ffxiv
               url: https://old.reddit.com/r/ffxiv/
-            - !Link
-              ico: <i class="fa-solid fa-newspaper"></i>
-              lbl: Universalis
-              url: https://universalis.app/
               
     - categories:
         - name: Aggregators
@@ -115,30 +107,50 @@
               ico: <i class="fa-brands fa-reddit-alien"></i>
               lbl: Reddit
               url: https://www.reddit.com/
-        - name: Music
+        - name: Gaming
           rows:
             - !Link
               ico: <i class="fa-brands fa-spotify"></i>
-              lbl: Spotify
-              url: https://open.spotify.com/?
+              lbl: Nexus Mods
+              url: https://www.nexusmods.com/games
             - !Link
               ico: <i class="fa-brands fa-mixcloud"></i>
-              lbl: Mixcloud
-              url: https://www.mixcloud.com/
+              lbl: r/Valheim
+              url: https://old.reddit.com/r/valheim/
             - !Link
               ico: <i class="fa-brands fa-soundcloud"></i>
-              lbl: Soundcloud
-              url: https://soundcloud.com/
-        - name: Reading
+              lbl: r/NoMansSkyTheGame
+              url: https://old.reddit.com/r/NoMansSkyTheGame
+            - !Link
+              ico: <i class="fa-brands fa-soundcloud"></i>
+              lbl: r/NMSCoordinateExchange
+              url: https://old.reddit.com/r/NMSCoordinateExchange/
+            - !Link
+              ico: <i class="fa-brands fa-soundcloud"></i>
+              lbl: Fantasy Name Generators
+              url: https://www.fantasynamegenerators.com/
+        - name: 3D Printing
           rows:
             - !Link
               ico: <i class="fa-brands fa-medium"></i>
-              lbl: Medium
-              url: https://medium.com/
+              lbl: Printables
+              url: https://www.printables.com/@arcanaemia_506216/collections
             - !Link
               ico: <i class="fa-brands fa-goodreads-g"></i>
-              lbl: Goodreads
-              url: https://www.goodreads.com/
+              lbl: Thangs
+              url: https://thangs.com/
+            - !Link
+              ico: <i class="fa-brands fa-goodreads-g"></i>
+              lbl: My Printer
+              url: http://172.20.7.40/#/
+            - !Link
+              ico: <i class="fa-brands fa-goodreads-g"></i>
+              lbl: OrcaSlicer
+              url: https://github.com/SoftFever/OrcaSlicer
+            - !Link
+              ico: <i class="fa-brands fa-medium"></i>
+              lbl: r/3Dprinting
+              url: https://old.reddit.com/r/3Dprinting
     - categories:
         - name: Social
           rows:
