@@ -52,10 +52,6 @@
           rows:
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
-              lbl: FFXIV Teamcraft
-              url: https://ffxivteamcraft.com/
-            - !Link
-              ico: <i class="fa-solid fa-newspaper"></i>
               lbl: Eorzea Collection
               url: https://ffxiv.eorzeacollection.com/
             - !Link
@@ -66,6 +62,10 @@
               ico: <i class="fa-solid fa-newspaper"></i>
               lbl: Universalis
               url: https://universalis.app/
+            - !Link
+              ico: <i class="fa-solid fa-newspaper"></i>
+              lbl: r/ffxiv
+              url: https://old.reddit.com/r/ffxiv/
             - !Separator
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
@@ -93,8 +93,8 @@
               url: https://mirapri.com/
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
-              lbl: r/ffxiv
-              url: https://old.reddit.com/r/ffxiv/
+              lbl: FFXIV Teamcraft
+              url: https://ffxivteamcraft.com/
               
     - categories:
         - name: Aggregators
