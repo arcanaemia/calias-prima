@@ -15,45 +15,32 @@
               ico: <i class="fa-solid fa-magnifying-glass"></i>
               lbl: Google Search
               url: https://www.google.com/
-        - name: Tools
+        - name: Essentials
           rows:
             - !Link
               ico: <i class="fa-solid fa-envelope"></i>
-              lbl: Mail
+              lbl: gmail
               url: https://gmail.com
             - !Link
               ico: <i class="fa-solid fa-envelope"></i>
-              lbl: ProtonMail
-              url: https://proton.me/
+              lbl: Raindrop
+              url: https://app.raindrop.io/my/0
             - !Link
               ico: <i class="fa-solid fa-calendar-days"></i>
-              lbl: Calendar
-              url: https://calendar.google.com/calendar/r/week
+              lbl: My Cookbook
+              url: https://geekess.net/recipes/
             - !Link
               ico: <i class="fa-solid fa-language"></i>
-              lbl: Translate
-              url: https://translate.google.com/
+              lbl: Fress RSS
+              url: https://geekess.net/fress/p/i/
             - !Link
               ico: <i class="fa-solid fa-map-location-dot"></i>
-              lbl: Maps
-              url: https://www.google.com/maps
+              lbl: Mobile Read
+              url: https://www.mobileread.com/forums/forumdisplay.php?f=26
             - !Link
               ico: <i class="fa-brands fa-google-drive"></i>
-              lbl: Drive
-              url: https://drive.google.com/drive/u/0/my-drive
-            - !Separator
-            - !Link
-              ico: <i class="fa-solid fa-sun"></i>
-              lbl: Weather
-              url: https://wttr.in/
-            - !Link
-              ico: <i class="fa-solid fa-person-hiking"></i>
-              lbl: AllTrails
-              url: https://www.alltrails.com/
-            - !Link
-              ico: <i class="fa-solid fa-person-hiking"></i>
-              lbl: Outdoor Active
-              url: https://www.outdooractive.com/en/
+              lbl: Omada Controller
+              url: https://172.20.7.7:8043/
     - categories:
         - name: Knowledge
           rows:
