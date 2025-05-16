@@ -56,45 +56,54 @@
               ico: <i class="fa-brands fa-stack-exchange"></i>
               lbl: Stack Exchange
               url: https://stackexchange.com/
-        - name: News
+        - name: FFXIV
           rows:
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
-              lbl: The New York Times
-              url: https://www.nytimes.com/
+              lbl: FFXIV Teamcraft
+              url: https://ffxivteamcraft.com/
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
-              lbl: NBC News
-              url: https://www.nbcnews.com/
+              lbl: Garland Tools
+              url: https://garlandtools.org/db/
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
-              lbl: NPR
-              url: https://www.npr.org/
+              lbl: Raphael
+              url: https://www.raphael-xiv.com/
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
-              lbl: Bloomberg
-              url: https://www.bloomberg.com
+              lbl: FFXIV Housing
+              url: https://en.ff14housing.com/
             - !Separator
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
-              lbl: Deutsche Welle
-              url: https://www.dw.com
+              lbl: Eorzea Collection
+              url: https://ffxiv.eorzeacollection.com/
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
-              lbl: France24
-              url: https://www.france24.com
+              lbl: FFXIV Collect - Kydani
+              url: https://ffxivcollect.com/characters/17418479
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
-              lbl: BBC
-              url: https://www.bbc.com/
+              lbl: FFXIV Store
+              url: https://store.finalfantasyxiv.com/ffxivstore/en-us
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
-              lbl: CNN
-              url: https://edition.cnn.com/
+              lbl: MogStation
+              url: https://secure.square-enix.com/account/app/svc/mogstation
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
-              lbl: CGTN
-              url: https://www.cgtn.com/
+              lbl: Mirapri
+              url: https://mirapri.com/
+            - !Link
+              ico: <i class="fa-solid fa-newspaper"></i>
+              lbl: r/ffxiv
+              url: https://old.reddit.com/r/ffxiv/
+            - !Link
+              ico: <i class="fa-solid fa-newspaper"></i>
+              lbl: Universalis
+              url: https://universalis.app/
+              
     - categories:
         - name: Aggregators
           rows:
