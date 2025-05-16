@@ -129,6 +129,7 @@
               ico: <i class="fa-brands fa-soundcloud"></i>
               lbl: Fantasy Name Generators
               url: https://www.fantasynamegenerators.com/
+    - categories:
         - name: 3D Printing
           rows:
             - !Link
@@ -151,65 +152,14 @@
               ico: <i class="fa-brands fa-medium"></i>
               lbl: r/3Dprinting
               url: https://old.reddit.com/r/3Dprinting
-    - categories:
-        - name: Social
-          rows:
             - !Link
-              ico: <i class="fa-brands fa-mastodon"></i>
-              lbl: Mastodon
-              url: https://joinmastodon.org/
+              ico: <i class="fa-brands fa-medium"></i>
+              lbl: r/ElegooNeptune4
+              url: https://old.reddit.com/r/ElegooNeptune4/
             - !Link
-              ico: <i class="fa-brands fa-twitter"></i>
-              lbl: Twitter
-              url: https://twitter.com/
-            - !Link
-              ico: <i class="fa-brands fa-linkedin"></i>
-              lbl: Linkedin
-              url: https://www.linkedin.com
-            - !Link
-              ico: <i class="fa-brands fa-facebook"></i>
-              lbl: Facebook
-              url: https://www.facebook.com/
-        - name: Media
-          rows:
-            - !Link
-              ico: <i class="fa-brands fa-youtube"></i>
-              lbl: YouTube
-              url: https://www.youtube.com/
-            - !Link
-              ico: <i class="fa-brands fa-twitch"></i>
-              lbl: Twitch
-              url: https://www.twitch.tv/
-            - !Link
-              ico: <i class="fa-brands fa-tiktok"></i>
-              lbl: TikTok
-              url: https://www.tiktok.com/
-            - !Link
-              ico: <i class="fa-brands fa-instagram"></i>
-              lbl: Instagram
-              url: https://www.instagram.com/
-        - name: Gaming
-          rows:
-            - !Link
-              ico: <i class="fa-brands fa-steam"></i>
-              lbl: Steam
-              url: https://store.steampowered.com/
-            - !Link
-              ico: <i class="fa-solid fa-key"></i>
-              lbl: Key For Steam
-              url: https://www.keyforsteam.de/
-            - !Link
-              ico: <i class="fa-solid fa-gamepad"></i>
-              lbl: Humble Bundle
-              url: https://www.humblebundle.com/
-            - !Link
-              ico: <i class="fa-solid fa-gamepad"></i>
-              lbl: Good Old Games
-              url: https://www.gog.com/
-            - !Link
-              ico: <i class="fa-solid fa-gamepad"></i>
-              lbl: RAWG
-              url: https://rawg.io/
+              ico: <i class="fa-brands fa-goodreads-g"></i>
+              lbl: r/3dprintingdeals
+              url: https://old.reddit.com/r/3dprintingdeals/
 - name: Development
   columns:
     - categories:
