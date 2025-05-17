@@ -1,20 +1,20 @@
 - name: Home
   columns:
     - categories:
-        - name: Search
+        - name: Tools
           rows:
             - !Link
               ico: <i class="fa-solid fa-robot"></i>
-              lbl: ChatGPT
-              url: https://chat.openai.com/
+              lbl: Local Duplicacy
+              url: http://127.0.0.1:3875/
             - !Link
               ico: <i class="fa-solid fa-magnifying-glass"></i>
-              lbl: DuckDuckGo
-              url: https://duckduckgo.com/
+              lbl: Omada Controller
+              url: https://172.20.7.3:8043/login
             - !Link
-              ico: <i class="fa-solid fa-magnifying-glass"></i>
-              lbl: Google Search
-              url: https://www.google.com/
+              ico: <i class="fab fa-github"></i>
+              lbl: This page on github
+              url: https://github.com/arcanaemia/calias-prima
         - name: Essentials
           rows:
             - !Link
@@ -22,32 +22,26 @@
               lbl: gmail
               url: https://gmail.com
             - !Link
-              ico: <i class="fa-solid fa-envelope"></i>
+              ico: <i class="fa-solid fa-list"></i>
               lbl: Raindrop
               url: https://app.raindrop.io/my/0
             - !Link
-              ico: <i class="fa-solid fa-calendar-days"></i>
+              ico: <i class="fa-solid fa-book"></i>
               lbl: My Cookbook
               url: https://geekess.net/recipes/
             - !Link
-              ico: <i class="fa-solid fa-language"></i>
+              ico: <i class="fa-solid fa-square-rss"></i>
               lbl: Fress RSS
               url: https://geekess.net/fress/p/i/
             - !Link
-              ico: <i class="fa-solid fa-map-location-dot"></i>
+              ico: <i class="fa-solid fa-book-open-reader"></i>
               lbl: Mobile Read
               url: https://www.mobileread.com/forums/forumdisplay.php?f=26
             - !Link
-              ico: <i class="fa-brands fa-google-drive"></i>
+              ico: <i class="fa-solid fa-house-signal"></i>
               lbl: Omada Controller
               url: https://172.20.7.7:8043/
     - categories:
-        - name: Knowledge
-          rows:
-            - !Link
-              ico: <i class="fa-brands fa-wikipedia-w"></i>
-              lbl: Wikipedia
-              url: https://en.wikipedia.org/wiki/Main_Page
         - name: FFXIV
           rows:
             - !Link
@@ -63,7 +57,7 @@
               lbl: Universalis
               url: https://universalis.app/
             - !Link
-              ico: <i class="fa-solid fa-newspaper"></i>
+              ico: <i class="fa-brands fa-reddit-alien"></i>
               lbl: r/ffxiv
               url: https://old.reddit.com/r/ffxiv/
             - !Separator
@@ -94,70 +88,69 @@
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
               lbl: FFXIV Teamcraft
-              url: https://ffxivteamcraft.com/
-              
+              url: https://ffxivteamcraft.com/              
     - categories:
-        - name: Aggregators
-          rows:
-            - !Link
-              ico: <i class="fa-brands fa-hacker-news"></i>
-              lbl: Hacker News
-              url: https://news.ycombinator.com/
-            - !Link
-              ico: <i class="fa-brands fa-reddit-alien"></i>
-              lbl: Reddit
-              url: https://www.reddit.com/
         - name: Gaming
           rows:
             - !Link
-              ico: <i class="fa-brands fa-spotify"></i>
+              ico: <i class="fa-solid fa-book-skull"></i>
               lbl: Nexus Mods
               url: https://www.nexusmods.com/games
             - !Link
-              ico: <i class="fa-brands fa-mixcloud"></i>
+              ico: <i class="fa-brands fa-reddit-alien"></i>
               lbl: r/Valheim
               url: https://old.reddit.com/r/valheim/
             - !Link
-              ico: <i class="fa-brands fa-soundcloud"></i>
+              ico: <i class="fa-brands fa-reddit-alien"></i>
               lbl: r/NoMansSkyTheGame
               url: https://old.reddit.com/r/NoMansSkyTheGame
             - !Link
-              ico: <i class="fa-brands fa-soundcloud"></i>
+              ico: <i class="fa-brands fa-reddit-alien"></i>
               lbl: r/NMSCoordinateExchange
               url: https://old.reddit.com/r/NMSCoordinateExchange/
             - !Link
-              ico: <i class="fa-brands fa-soundcloud"></i>
+              ico: <i class="fa-solid fa-wand-sparkles"></i>
               lbl: Fantasy Name Generators
               url: https://www.fantasynamegenerators.com/
     - categories:
+        - name: Misc
+          rows:
+           - !Link
+              ico: <i class="fa-brands fa-reddit-alien"></i>
+              lbl: reddit
+              url: https://old.reddit.com
         - name: 3D Printing
           rows:
             - !Link
-              ico: <i class="fa-brands fa-medium"></i>
+              ico: <i class="fa-solid fa-file-pen"></i>
               lbl: Printables
               url: https://www.printables.com/@arcanaemia_506216/collections
             - !Link
-              ico: <i class="fa-brands fa-goodreads-g"></i>
+              ico: <i class="fa-solid fa-file-pen"></i>
               lbl: Thangs
               url: https://thangs.com/
             - !Link
-              ico: <i class="fa-brands fa-goodreads-g"></i>
+              ico: <i class="fa-solid fa-file-pen"></i>
+              lbl: Thingiverse
+              url: https://www.thingiverse.com/
+            - !Link
+              ico: <i class="fa-solid fa-print"></i>
               lbl: My Printer
               url: http://172.20.7.40/#/
             - !Link
-              ico: <i class="fa-brands fa-goodreads-g"></i>
+              ico: <i class="fa-solid fa-fish"></i>
               lbl: OrcaSlicer
               url: https://github.com/SoftFever/OrcaSlicer
             - !Link
-              ico: <i class="fa-brands fa-medium"></i>
+              ico: <i class="fa-brands fa-reddit-alien"></i>
               lbl: r/3Dprinting
               url: https://old.reddit.com/r/3Dprinting
             - !Link
-              ico: <i class="fa-brands fa-medium"></i>
+              ico: <i class="fa-brands fa-reddit-alien"></i>
               lbl: r/ElegooNeptune4
               url: https://old.reddit.com/r/ElegooNeptune4/
             - !Link
-              ico: <i class="fa-brands fa-goodreads-g"></i>
+              ico: <i class="fa-brands fa-reddit-alien"></i>
               lbl: r/3dprintingdeals
               url: https://old.reddit.com/r/3dprintingdeals/
 - name: Development
