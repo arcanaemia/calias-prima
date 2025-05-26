@@ -41,6 +41,20 @@
               ico: <i class="fa-solid fa-house-signal"></i>
               lbl: Omada Controller
               url: https://172.20.7.7:8043/
+            - !Link
+              ico: <i class="fa-solid fa-house-signal"></i>
+              lbl: Cockpit - nomi-sunrider
+              url: https://172.20.7.3:9090/
+            - !Link
+              ico: <i class="fa-solid fa-house-signal"></i>
+              lbl: Cockpit - meetra-surik
+              url: https://172.20.7.7:9090/
+        - name: Misc
+          rows:
+           - !Link
+              ico: <i class="fa-brands fa-reddit-alien"></i>
+              lbl: reddit
+              url: https://old.reddit.com
     - categories:
         - name: FFXIV
           rows:
@@ -113,12 +127,6 @@
               lbl: Fantasy Name Generators
               url: https://www.fantasynamegenerators.com/
     - categories:
-        - name: Misc
-          rows:
-           - !Link
-              ico: <i class="fa-brands fa-reddit-alien"></i>
-              lbl: reddit
-              url: https://old.reddit.com
         - name: 3D Printing
           rows:
             - !Link
@@ -153,6 +161,20 @@
               ico: <i class="fa-brands fa-reddit-alien"></i>
               lbl: r/3dprintingdeals
               url: https://old.reddit.com/r/3dprintingdeals/
+        - name: Media
+          rows:
+            - !Link
+              ico: <i class="fa-solid fa-file-pen"></i>
+              lbl: Radarr
+              url: http://172.20.7.3:7878/ 
+            - !Link
+              ico: <i class="fa-solid fa-file-pen"></i>
+              lbl: Sonarr
+              url: http://172.20.7.3:8989/
+            - !Link
+              ico: <i class="fa-solid fa-file-pen"></i>
+              lbl: SABnzbd
+              url: http://172.20.7.3:8080/
 - name: Development
   columns:
     - categories:
