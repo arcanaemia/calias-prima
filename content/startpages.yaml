@@ -32,7 +32,7 @@
             - !Link
               ico: <i class="fa-solid fa-square-rss"></i>
               lbl: Fress RSS
-              url: https://geekess.net/fress/p/i/
+              url: https://geekess.net/freshrss/p/i/
             - !Link
               ico: <i class="fa-solid fa-book-open-reader"></i>
               lbl: Mobile Read
