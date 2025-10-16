@@ -10,7 +10,7 @@
             - !Link
               ico: <i class="fa-solid fa-magnifying-glass"></i>
               lbl: Omada Controller
-              url: https://172.20.7.3:8043/login
+              url: https://172.20.7.7:8043/login
             - !Link
               ico: <i class="fab fa-github"></i>
               lbl: This page on github
