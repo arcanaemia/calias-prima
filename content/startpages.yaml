@@ -37,14 +37,6 @@
               ico: <i class="fa-solid fa-book-open-reader"></i>
               lbl: Mobile Read
               url: https://www.mobileread.com/forums/forumdisplay.php?f=26
-            - !Link
-              ico: <i class="fa-solid fa-house-signal"></i>
-              lbl: Cockpit - nomi-sunrider
-              url: https://172.20.7.3:9090/
-            - !Link
-              ico: <i class="fa-solid fa-house-signal"></i>
-              lbl: Cockpit - meetra-surik
-              url: https://172.20.7.7:9090/
         - name: Misc
           rows:
            - !Link
