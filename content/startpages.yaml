@@ -26,13 +26,17 @@
               lbl: Raindrop
               url: https://app.raindrop.io/my/0
             - !Link
+              ico: <i class="fa-solid fa-list"></i>
+              lbl: Linkwarden
+              url: https://bookmarks.tabbytomes.com
+            - !Link
               ico: <i class="fa-solid fa-book"></i>
               lbl: My Cookbook
               url: https://geekess.net/recipes/
             - !Link
               ico: <i class="fa-solid fa-square-rss"></i>
               lbl: Fress RSS
-              url: https://geekess.net/freshrss/p/i/
+              url: https://rss.tabbytomes.com
             - !Link
               ico: <i class="fa-solid fa-book-open-reader"></i>
               lbl: Mobile Read
