@@ -15,6 +15,14 @@
               ico: <i class="fab fa-github"></i>
               lbl: This page on github
               url: https://github.com/arcanaemia/calias-prima
+            - !Link
+              ico: <i class="fa-solid fa-shield"></i>
+              lbl: AdGuard Home
+              url: http://172.20.7.7/#
+            - !Link
+              ico: <i class="fa-brands fa-docker"></i>
+              lbl: Dockhand
+              url: http://172.20.7.7:9130/
         - name: Essentials
           rows:
             - !Link
@@ -156,15 +164,15 @@
         - name: Media
           rows:
             - !Link
-              ico: <i class="fa-solid fa-file-pen"></i>
+              ico: <i class="fa-solid fa-film"></i>
               lbl: Radarr
               url: http://172.20.7.3:7878/ 
             - !Link
-              ico: <i class="fa-solid fa-file-pen"></i>
+              ico: <i class="fa-solid fa-tv"></i>
               lbl: Sonarr
               url: http://172.20.7.3:8989/
             - !Link
-              ico: <i class="fa-solid fa-file-pen"></i>
+              ico: <i class="fa-solid fa-file-arrow-down"></i>
               lbl: SABnzbd
               url: http://172.20.7.3:8080/
 - name: Development
