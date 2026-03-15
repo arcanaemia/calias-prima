@@ -21,8 +21,12 @@
               url: http://172.20.7.7/#
             - !Link
               ico: <i class="fa-brands fa-docker"></i>
-              lbl: Dockhand
-              url: http://172.20.7.7:9130/
+              lbl: Arcane
+              url: http://172.20.7.7:3552
+            - !Link
+              ico: <i class="fa-solid fa-screwdriver-wrench"></i>
+              lbl: OmniTools
+              url: http://172.20.7.7:9980/
         - name: Essentials
           rows:
             - !Link
