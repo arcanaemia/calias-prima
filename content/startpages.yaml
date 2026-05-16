@@ -65,7 +65,7 @@
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
               lbl: Eorzea Collection
-              url: https://ffxiv.eorzeacollection.com/
+              url: https://ffxiv.eorzeacollection.com/glamours
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
               lbl: FFXIV Collect - Kydani
