@@ -17,7 +17,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
       - name: Cargo build
-        uses: cargo build
+        run: cargo build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
