@@ -183,6 +183,10 @@
               ico: <i class="fa-brands fa-searchengin"></i>
               lbl: Seerr
               url: http://172.20.7.3:5055/
+           - !Link
+              ico: <i class="fa-solid fa-book-bookmark"></i>
+              lbl: BookOrbit
+              url: http://172.20.7.3:13000/
 - name: Development
   columns:
     - categories:
