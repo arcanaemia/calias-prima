@@ -17,7 +17,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
       - name: Build static files
-        uses: clechasseur/rs-cargo@v5.0.6
+        uses: actions-rs/cargo@v1
         with:
           command: run
       - name: Deploy
